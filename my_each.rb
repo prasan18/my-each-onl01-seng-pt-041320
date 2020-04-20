@@ -5,7 +5,7 @@ def my_each(collection)
    i = i + 1
 "#{i}"
  end
-array
+collection
 end
  
   
